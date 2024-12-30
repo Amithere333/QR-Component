@@ -1,0 +1,46 @@
+body{
+    background-color: #D5E1EF;
+    font-family: "Titillium Web", serif;
+    font-style: normal;
+
+    text-align: center;
+    
+
+}
+
+
+
+/* creating box for the QR scanner */
+
+.myCard{
+    height:470px;
+    width:100%;
+    max-width: 302px;
+    box-shadow:0px 10px 20px 0px rgb(0 0 0 /20%);
+    background-color: white;
+    position:absolute;
+    margin:auto;
+    inset:0; /* short hand for top left right  bottom = 0*/ 
+
+    border-radius: 10px;
+    padding:1rem;
+    padding-bottom:3rem;
+}
+
+
+/* styling image  */
+img{
+    width:100%;
+   
+   
+}
+
+
+
+h2{
+    color: hsl(216, 15%, 48%);
+}
+
+p{
+    color:hsl(218, 44%, 22%);
+}
