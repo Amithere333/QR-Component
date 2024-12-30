@@ -1,0 +1,1 @@
+QR-Component The QR Code Component is a responsive card displaying a QR code, title, and description. It uses max-width for responsiveness, centers the card with position: absolute, and applies shadow effects.
