@@ -37,10 +37,15 @@ img{
 
 
 
-h2{
-    color: hsl(216, 15%, 48%);
+h1{
+    color: hsl(218, 44%, 22%);
+    font-size:25px; 
+    line-height:105%;
 }
 
 p{
-    color:hsl(218, 44%, 22%);
+    color:hsl(216, 15%, 48%);
+    font-size:15px;
+    width:80%;
+    margin-left:1.8rem;
 }
